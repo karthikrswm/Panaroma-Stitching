@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# # Datasets and Outputs
+# Data/
+# Output/
+# *.jpg
+# *.jpeg
+# *.png
+
+# Compiled Binaries
+*.o
+*.out
+app
+basic-stitcher
+opencv_stitcher
+advanced_stitcher
+
+# Jupyter Notebook
+.ipynb_checkpoints/
